@@ -1,3 +1,15 @@
 body {
-  background-color: #222831;
+  background-color: #222831; /* Fondo oscuro */
+}
+.navbar {
+  background-color: #303841; /* Navbar ligeramente más oscuro */
+}
+.navbar-brand {
+  color: #EEEEEE; /* Texto claro */
+}
+.nav-link {
+  color: #AAB8C2; /* Enlaces más claros */
+}
+.nav-link:hover {
+  color: #EEEEEE; /* Enlaces al pasar el mouse */
 }
